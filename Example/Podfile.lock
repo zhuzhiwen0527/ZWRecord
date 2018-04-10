@@ -1,0 +1,16 @@
+PODS:
+  - ZWRecord (0.1.0)
+
+DEPENDENCIES:
+  - ZWRecord (from `../`)
+
+EXTERNAL SOURCES:
+  ZWRecord:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZWRecord: cd06215274aff87d69722b140d715483118aba21
+
+PODFILE CHECKSUM: d71d9da30dc606dd184b6917e16b1d659c6d42a2
+
+COCOAPODS: 1.2.1

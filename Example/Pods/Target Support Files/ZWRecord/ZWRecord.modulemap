@@ -1,0 +1,6 @@
+framework module ZWRecord {
+  umbrella header "ZWRecord-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "ZWRecord",
+  "version": "0.1.0",
+  "summary": "A short description of ZWRecord.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/apple/ZWRecord",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "apple": "641450178@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/apple/ZWRecord.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZWRecord/Classes/**/*"
+}
