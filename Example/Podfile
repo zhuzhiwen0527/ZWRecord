@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ZWRecord_Example' do
+  pod 'ZWRecord', :path => '../'
+
+  target 'ZWRecord_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
